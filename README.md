@@ -1,21 +1,10 @@
----
-title: Basics
-toc: false
-order: 1
----
+#Tugas Web Front-end CPS
 
-# Basic Example
+Berdasarkan ketentuan tugas, maka aplikasi ini memakai
+# Framework React ver 18.2 dengan environment Vite ver 4.0.4
+# Framework CSS Bootstrap ver 5.3.3
 
-This example demonstrates some of the basic features of React Router, including:
-
-- Layouts and nested `<Route>`s
-- Index `<Route>`s
-- Catch-all `<Route>`s
-- Using `<Outlet>` as a placeholder for child routes
-- Using `<Link>`s for navigation
-
-## Preview
-
-Open this example on [StackBlitz](https://stackblitz.com):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router/tree/main/examples/basic?file=src/App.tsx)
+Jika ingin menambahkan data seperti data diri atau deskripsi perangkat, 
+bisa untuk mengubah file-file .json yang terletak di './src/assets'.
+Untuk data diri, masukkan ke file 'biodata.json', untuk deskripsi alat, masukkan ke 'data_alat.json'.
+Sesuaikan dengan format yang diberikan.
