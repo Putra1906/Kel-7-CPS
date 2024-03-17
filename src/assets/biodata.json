@@ -1,0 +1,36 @@
+{
+  "Mahasiswa": [
+    {
+      "nama": "Husain",
+      "nama_lengkap": "Muhammad Husain Kaasyiful Ghitha",
+      "nim": "1103220047",
+      "kelas": "TK-46-01",
+      "alamat": "Jl. Rambutan, Marpoyan Damai, Pekanbaru",
+      "foto": "/src/assets/photos/Foto_Husain.jpg"
+    },
+    {
+      "nama": "nama2",
+      "nama_lengkap": "Nama2 lagi",
+      "nim": "1344",
+      "kelas": "TK04",
+      "alamat": "Bandung",
+      "foto": "/src/assets/photos/..."
+    },
+    {
+      "nama": "Nama3",
+      "nama_lengkap": "Nama3 setelah itu",
+      "nim": "2305",
+      "kelas": "TK02",
+      "alamat": "Bandung",
+      "foto": "/src/assets/photos/..."
+    },
+    {
+      "nama": "Nama4",
+      "nama_lengkap": "Nama4 kemudian",
+      "nim": "0503",
+      "kelas": "TK01",
+      "alamat": "Bandung",
+      "foto": "/src/assets/photos/..."
+    }
+  ]
+}

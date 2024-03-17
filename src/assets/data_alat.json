@@ -1,0 +1,50 @@
+{
+  "Perlatan": [
+    {
+      "nama": "NodeMCU ESP8266 ver 1.0",
+      "tipe_alat": {
+        "peran_alat": "mikrokontroler",
+        "clock_speed": "80 MHz",
+        "memory": "64 kB",
+        "storage": "4 MB"
+      },
+      "cara_kerja": "sdf [pkiwert fj]-wertj -  ]rwetjg  -]werjtg -  wejrt -] werjt-[pwj"
+    },
+    {
+      "nama": "RainDrop Module MH-RD",
+      "tipe_alat": {
+        "peran_alat": "sensor",
+        "tipe_i/o": "input",
+        "tipe_sinyal": "analog"
+      },
+      "cara_kerja": "sdf [pkiwert fj]-wertj -  ]rwetjg  -]werjtg -  wejrt -] werjt-[pwj"
+    },
+    {
+      "nama": "Light Dependent Resistor Module",
+      "tipe_alat": {
+        "peran_alat": "sensor",
+        "tipe_i/o": "input",
+        "tipe_sinyal": "digital"
+      },
+      "cara_kerja": "sdf [pkiwert fj]-wertj -  ]rwetjg  -]werjtg -  wejrt -] werjt-[pwj"
+    },
+    {
+      "nama": "LCD 1602A I2C",
+      "tipe_alat": {
+        "peran_alat": "display",
+        "tipe_i/o": "output",
+        "tipe_sinyal": "digital"
+      },
+      "cara_kerja": "sdf [pkiwert fj]-wertj -  ]rwetjg  -]werjtg -  wejrt -] werjt-[pwj"
+    },
+    {
+      "nama": "Buzzer",
+      "tipe_alat": {
+        "peran_alat": "aktuator",
+        "tipe_i/o": "output",
+        "tipe_sinyal": "digital"
+      },
+      "cara_kerja": "sdf [pkiwert fj]-wertj -  ]rwetjg  -]werjtg -  wejrt -] werjt-[pwj"
+    }
+  ]
+}
