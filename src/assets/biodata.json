@@ -9,26 +9,26 @@
       "foto": "/src/assets/photos/Foto_Husain.jpg"
     },
     {
-      "nama": "nama2",
-      "nama_lengkap": "Nama2 lagi",
-      "nim": "1344",
-      "kelas": "TK04",
+      "nama": "Rizki",
+      "nama_lengkap": "Rizki Nugroho Firdaus",
+      "nim": "1101223106",
+      "kelas": "TT",
       "alamat": "Bandung",
       "foto": "/src/assets/photos/..."
     },
     {
-      "nama": "Nama3",
-      "nama_lengkap": "Nama3 setelah itu",
-      "nim": "2305",
-      "kelas": "TK02",
+      "nama": "Gebby",
+      "nama_lengkap": "Gebby Halmita",
+      "nim": "1101223211",
+      "kelas": "TT09",
       "alamat": "Bandung",
       "foto": "/src/assets/photos/..."
     },
     {
-      "nama": "Nama4",
-      "nama_lengkap": "Nama4 kemudian",
-      "nim": "0503",
-      "kelas": "TK01",
+      "nama": "Putra",
+      "nama_lengkap": "Putra Alpa Omega Bangun",
+      "nim": "1101220041",
+      "kelas": "TT",
       "alamat": "Bandung",
       "foto": "/src/assets/photos/..."
     }
