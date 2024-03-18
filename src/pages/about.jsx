@@ -38,7 +38,7 @@ function About() {
                 <header>
                     <div className="pricing-header p-3 pb-md-4 mx-auto text-center">
                         <h1 className="display-4 fw-normal text-body-emphasis">Tentang Kami</h1>
-                        <p className="fs-5 text-body-secondary text-start">Kami adalah tim yang akan mengembangkan sebuah sistem yaitu Monitoring water and light in plants, sebuah solusi inovatif untuk meningkatkan produktivitas tanaman secara keseluruhan. Kami percaya bahwa deteksi dini adalah sebuah kunci untuk mencegah kerugian, Maka dari itu kami menciptakan teknologi yang dapat memberikan peringatan awal dengan cepat dan akurat.
+                        <p className="fs-5 text-body-secondary text-start">Kami adalah tim yang akan mengembangkan sebuah sistem yaitu Monitoring water and light in plants, sebuah solusi inovatif untuk meningkatkan produktivitas tanaman secara keseluruhan. Kami percaya bahwa deteksi dini akan menjadi kunci untuk mencegah kerugian, Maka dari itu kami menciptakan teknologi yang dapat memberikan peringatan awal dengan cepat dan akurat.
                         </p>
                         <p className="fs-5 text-body-secondary text-start">
                             Tim kami beranggotakan 4 orang yakni : Rizky Nugroho Firdaus, Putra Alpa Omega Bangun, Gebby Halmita, dan Muhammad Husain Kaasyiful G. Bersama-sama kami membuat alat Monitoring Air dan Cahaya pada Tumbuhan.
