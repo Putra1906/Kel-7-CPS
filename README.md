@@ -1,1 +1,1 @@
-Saya Mencoba untuk membuat Endpoint Login dan Register dan pada saat input data ke database PhpMyAdmin saya mengalami error seperti pada gambar yang saya cantumkan di repository saya 
+Saya Mencoba untuk membuat Endpoint Login dan Register dan pada saat saya melakukan pengisian data pada database, folder data base dari vscode tidak migrasi ke phpMyAdmin dan saya mengalami error seperti pada gambar yang saya cantumkan di repository saya diatas
